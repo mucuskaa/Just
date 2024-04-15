@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Database", "Database\Database.csproj", "{2AFCD6DC-2252-4722-AB41-29F0ED7B2C04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiJUST", "ApiJUST\ApiJUST.csproj", "{A66137C5-E4FB-4554-ACBE-1E7BEA5A89E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AFCD6DC-2252-4722-AB41-29F0ED7B2C04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AFCD6DC-2252-4722-AB41-29F0ED7B2C04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AFCD6DC-2252-4722-AB41-29F0ED7B2C04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AFCD6DC-2252-4722-AB41-29F0ED7B2C04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A66137C5-E4FB-4554-ACBE-1E7BEA5A89E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A66137C5-E4FB-4554-ACBE-1E7BEA5A89E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A66137C5-E4FB-4554-ACBE-1E7BEA5A89E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A66137C5-E4FB-4554-ACBE-1E7BEA5A89E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47B6B5A3-91E9-4A5E-9246-0C6886A5A4BE}
+	EndGlobalSection
+EndGlobal

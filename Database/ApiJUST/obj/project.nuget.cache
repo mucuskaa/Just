@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "PdtVcgUl+zXg1GhEsbiOHnOwEcfWTew1h+TKO5L50K+o2ILRevPBQNcEz4jtRltqNxuDUmTc7VSjtXIYHiGztQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nyasha\\source\\repos\\TheSem1One\\Project_To_Technologiofcode\\Database\\ApiJUST\\ApiJUST.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nyasha\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Nyasha\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Nyasha\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Nyasha\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Nyasha\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Nyasha\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

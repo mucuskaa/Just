@@ -1,0 +1,6 @@
+@ApiJUST_HostAddress = http://localhost:5208
+
+GET {{ApiJUST_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

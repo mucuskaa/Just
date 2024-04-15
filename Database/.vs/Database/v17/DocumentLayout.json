@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nyasha\\source\\repos\\TheSem1One\\Project_To_Technologiofcode\\Database\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFCD6DC-2252-4722-AB41-29F0ED7B2C04}|Database\\Database.csproj|c:\\users\\nyasha\\source\\repos\\thesem1one\\project_to_technologiofcode\\database\\database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFCD6DC-2252-4722-AB41-29F0ED7B2C04}|Database\\Database.csproj|solutionrelative:database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFCD6DC-2252-4722-AB41-29F0ED7B2C04}|Database\\Database.csproj|c:\\users\\nyasha\\source\\repos\\thesem1one\\project_to_technologiofcode\\database\\database\\models\\content.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFCD6DC-2252-4722-AB41-29F0ED7B2C04}|Database\\Database.csproj|solutionrelative:database\\models\\content.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFCD6DC-2252-4722-AB41-29F0ED7B2C04}|Database\\Database.csproj|c:\\users\\nyasha\\source\\repos\\thesem1one\\project_to_technologiofcode\\database\\database\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFCD6DC-2252-4722-AB41-29F0ED7B2C04}|Database\\Database.csproj|solutionrelative:database\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFCD6DC-2252-4722-AB41-29F0ED7B2C04}|Database\\Database.csproj|c:\\users\\nyasha\\source\\repos\\thesem1one\\project_to_technologiofcode\\database\\database\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFCD6DC-2252-4722-AB41-29F0ED7B2C04}|Database\\Database.csproj|solutionrelative:database\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFCD6DC-2252-4722-AB41-29F0ED7B2C04}|Database\\Database.csproj|c:\\users\\nyasha\\source\\repos\\thesem1one\\project_to_technologiofcode\\database\\database\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AFCD6DC-2252-4722-AB41-29F0ED7B2C04}|Database\\Database.csproj|solutionrelative:database\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFCD6DC-2252-4722-AB41-29F0ED7B2C04}|Database\\Database.csproj|c:\\users\\nyasha\\source\\repos\\thesem1one\\project_to_technologiofcode\\database\\database\\database.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2AFCD6DC-2252-4722-AB41-29F0ED7B2C04}|Database\\Database.csproj|solutionrelative:database\\database.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFCD6DC-2252-4722-AB41-29F0ED7B2C04}|Database\\Database.csproj|c:\\users\\nyasha\\source\\repos\\thesem1one\\project_to_technologiofcode\\database\\database\\database.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2AFCD6DC-2252-4722-AB41-29F0ED7B2C04}|Database\\Database.csproj|solutionrelative:database\\database.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66137C5-E4FB-4554-ACBE-1E7BEA5A89E4}|ApiJUST\\ApiJUST.csproj|c:\\users\\nyasha\\source\\repos\\thesem1one\\project_to_technologiofcode\\database\\apijust\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66137C5-E4FB-4554-ACBE-1E7BEA5A89E4}|ApiJUST\\ApiJUST.csproj|solutionrelative:apijust\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nyasha\\source\\repos\\TheSem1One\\Project_To_Technologiofcode\\Database\\Database\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Database\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Nyasha\\source\\repos\\TheSem1One\\Project_To_Technologiofcode\\Database\\Database\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Database\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T11:32:42.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Database",
+              "DocumentMoniker": "C:\\Users\\Nyasha\\source\\repos\\TheSem1One\\Project_To_Technologiofcode\\Database\\Database\\Database.csproj",
+              "RelativeDocumentMoniker": "Database\\Database.csproj",
+              "ToolTip": "C:\\Users\\Nyasha\\source\\repos\\TheSem1One\\Project_To_Technologiofcode\\Database\\Database\\Database.csproj",
+              "RelativeToolTip": "Database\\Database.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-09T11:32:18.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Database",
+              "DocumentMoniker": "C:\\Users\\Nyasha\\source\\repos\\TheSem1One\\Project_To_Technologiofcode\\Database\\Database\\Database.csproj",
+              "RelativeDocumentMoniker": "Database\\Database.csproj",
+              "ToolTip": "C:\\Users\\Nyasha\\source\\repos\\TheSem1One\\Project_To_Technologiofcode\\Database\\Database\\Database.csproj",
+              "RelativeToolTip": "Database\\Database.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-09T11:32:00.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nyasha\\source\\repos\\TheSem1One\\Project_To_Technologiofcode\\Database\\Database\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Database\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Nyasha\\source\\repos\\TheSem1One\\Project_To_Technologiofcode\\Database\\Database\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Database\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T11:53:19.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Content.cs",
+              "DocumentMoniker": "C:\\Users\\Nyasha\\source\\repos\\TheSem1One\\Project_To_Technologiofcode\\Database\\Database\\Models\\Content.cs",
+              "RelativeDocumentMoniker": "Database\\Models\\Content.cs",
+              "ToolTip": "C:\\Users\\Nyasha\\source\\repos\\TheSem1One\\Project_To_Technologiofcode\\Database\\Database\\Models\\Content.cs",
+              "RelativeToolTip": "Database\\Models\\Content.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T10:19:31.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Nyasha\\source\\repos\\TheSem1One\\Project_To_Technologiofcode\\Database\\Database\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "Database\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\Nyasha\\source\\repos\\TheSem1One\\Project_To_Technologiofcode\\Database\\Database\\Models\\Login.cs",
+              "RelativeToolTip": "Database\\Models\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T10:17:00.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nyasha\\source\\repos\\TheSem1One\\Project_To_Technologiofcode\\Database\\Database\\Program.cs",
+              "RelativeDocumentMoniker": "Database\\Program.cs",
+              "ToolTip": "C:\\Users\\Nyasha\\source\\repos\\TheSem1One\\Project_To_Technologiofcode\\Database\\Database\\Program.cs",
+              "RelativeToolTip": "Database\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T10:24:03.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Nyasha\\source\\repos\\TheSem1One\\Project_To_Technologiofcode\\Database\\ApiJUST\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ApiJUST\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Nyasha\\source\\repos\\TheSem1One\\Project_To_Technologiofcode\\Database\\ApiJUST\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ApiJUST\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T11:30:43.79Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
